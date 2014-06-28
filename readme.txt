@@ -47,6 +47,9 @@ For Support Please Visit
 
 == Changelog ==
 
+= 1.0.2 - 28/06/2014 =
+* Updated the logic
+
 = 1.0.1 - 22/06/2014 =
 * Initial release!
 
