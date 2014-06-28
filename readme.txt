@@ -14,14 +14,16 @@ Works with WooCommerce 2.1.11 and above only.
 
 Add an option to your WooCommerce checkout payment gateways to add extra fee.
 
-This simple extension allows you to add an extra fees to the payment gateways.
+This simple extension allows you to add an extra fees to woocommerce payment gateways ("BACS, CHEQUE, COD"). 
+
+To add an extra fees to any payment gateway, get premium version of the plugin from [here](http://www.mydealstm.com/extrapayment-premium)
 
 WooCommerce > Settings > Checkout > single gateway page lets you set up an extra fee, which will be added to total whenever user select that particular payment gateway.
 
 If you'd like to contribute to the plugin you can find it on GitHub: [https://github.com/hemsingh1/woocommerce-extra-charges-to-payment-gateways/](https://github.com/hemsingh1/woocommerce-extra-charges-to-payment-gateways/)
 
 For Support Please Visit
-[http://www.mydealstm.com/extrapayment](http://www.mydealstm.com/extrapayment)
+[Extra charges to Payment](http://www.mydealstm.com/extrapayment)
 
 == Installation ==
 
