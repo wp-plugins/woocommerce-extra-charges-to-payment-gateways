@@ -4,8 +4,8 @@ Donate link: http://mydealstm.com/donate/
 Tags: woocommerce, payment gateway, digital, inventory, stock, reports, shipping, tax
 Requires at least: 3.9.0
 Tested up to: 3.9.1
-Stable tag: 1.0.2
-Version: 1.0.2
+Stable tag: 1.0.6
+Version: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
@@ -46,7 +46,7 @@ For Support Please Visit
 
 == Changelog ==
 
-= 1.0.2 - 28/06/2014 =
+= 1.0.2 - 1.0.6 - 28/06/2014 =
 * Updated the logic
 
 = 1.0.1 - 22/06/2014 =
