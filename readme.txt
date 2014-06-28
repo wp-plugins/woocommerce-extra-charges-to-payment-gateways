@@ -1,7 +1,7 @@
  === Plugin Name ===
 Contributors: hemsingh1
 Donate link: http://mydealstm.com/donate/
-Tags: woocommerce, payment gateway, ecommerce, e-commerce, commerce, woothemes, wordpress ecommerce, affiliate, store, sales, sell, shop, shopping, cart, checkout, configurable, variable, widgets, reports, download, downloadable, digital, inventory, stock, reports, shipping, tax
+Tags: woocommerce, payment gateway, digital, inventory, stock, reports, shipping, tax
 Requires at least: 3.9.0
 Tested up to: 3.9.1
 Stable tag: 1.0.2
