@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Extra Charges To Payment Gateway (Standard)
 Plugin URI: http://www.mydealstm.com
 Description: You can add extra fee for any payment gateways
-Version: 1.0.7
+Version: 1.0.8
 Author: hemsingh1
 Author URI: http://www.mydealstm.com
 */
