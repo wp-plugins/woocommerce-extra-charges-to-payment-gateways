@@ -3,7 +3,7 @@ Contributors: hemsingh1
 Donate link: http://mydealstm.com/donate/
 Tags: woocommerce, payment gateway, affiliate, cart, checkout, commerce, configurable, digital, download, downloadable, e-commerce, ecommerce, inventory, reports, sales, sell, shipping, shop, shopping, stock, store, tax, variable, widgets, woothemes, wordpress ecommerce
 Requires at least: 3.9.0
-Tested up to: 4.9.
+Tested up to: 4.0.
 Stable tag: 1.0.9
 Version: 1.0.9
 License: GPLv2 or later
