@@ -10,7 +10,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
-Works with WooCommerce 2.1.11 and above only.
+Works with WooCommerce 2.1.11 - 2.2.2 and above only.
 
 Add an option to your WooCommerce checkout payment gateways to add extra fee.
 
